@@ -56,3 +56,15 @@ button:hover {
 #lista-carrito li {
     margin: 5px 0;
 }
+
+.pokemon-info {
+    margin: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.pokemon-info img {
+    max-width: 100px;
+}
